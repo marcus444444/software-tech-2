@@ -35,6 +35,7 @@ def check_game_over(player_health, enemy_health):
 
 current_turn = 1
 
+print ("hello")
 # Game loop
 running = True
 while running:
